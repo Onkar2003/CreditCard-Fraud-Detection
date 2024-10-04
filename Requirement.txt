@@ -1,0 +1,5 @@
+1. fastapi
+2. scikit-learn
+3. numpy
+4. pandas
+5. streamlit
